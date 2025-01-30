@@ -8,8 +8,8 @@
 body:
 {
     "products": {
-        "Product 1": 2,
-        "Product 2": 1
+        "1": 2,
+        "2": 1
     },
     "userId": 1
 }
